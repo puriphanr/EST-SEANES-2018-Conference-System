@@ -1,7 +1,7 @@
 ###################
 EST Online Submission, Review and Registration System
 ###################
-This web application release for The 5th International Conference of Southeast Asian Network of Ergonomics Societies (SEANES 2018)
+This web application release for The 5th International Conference of Southeast Asian Network of Ergonomics Societies (SEANES 2018) hosted by Ergonomics Society of Thailand (EST) 
 
 *******************
 Technology
