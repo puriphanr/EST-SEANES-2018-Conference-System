@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+EST Online Submission, Review and Registration System
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
