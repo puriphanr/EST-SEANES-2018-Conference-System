@@ -18,6 +18,7 @@ This web application release for The 5th International Conference of Southeast A
 - Paper Submission
 - Reviewer Evaluation
 - Registration Conference
+- Mailing List
 - Payment and Invoicing
 - Administration Site
 
