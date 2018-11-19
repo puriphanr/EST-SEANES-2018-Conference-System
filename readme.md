@@ -11,6 +11,15 @@ This web application release for The 5th International Conference of Southeast A
 - Ajax
 - Javascript
 
+*******************
+### Module
+*******************
+- Authentication
+- Paper Submission
+- Reviewer Evaluation
+- Registration Conference
+- Payment and Invoicing
+- Administration Site
 
 *******************
 ### Screenshot
